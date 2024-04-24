@@ -1,13 +1,10 @@
-# Let's create a README.md content for the user's project
-
-readme_content = """
 # Stock Trend Analysis Project
 
 ## Overview
 This project shifts the traditional focus of predictive models in stock trading from attempting to predict exact future prices to understanding and predicting general price tendencies or actions. This approach is particularly suited to the unpredictable nature of the stock market, influenced by a myriad of unforeseeable economic factors. 
 
 ## Problem Statement
-Predictive models that aim to forecast precise stock prices are highly vulnerable to market volatility and external shocks, often leading to substantial forecast errors and potential financial losses. Our project addresses this issue by developing models that focus on identifying general trends and cyclic behavior in stock prices, thereby providing a strategic decision-making tool for investors.
+Predictive models that aim to forecast precise stock prices are highly vulnerable to market volatility and external shocks, often leading to substantial forecast errors and potential financial losses. Our project addresses this issue by developing models that focus on identifying general trends and cyclic behavior in stock prices, thereby providing a strategic decision-making tool for investors. How can we leverage machine learning models to predict general trends in NASDAQ stock prices?
 
 ## Objectives
 - To understand and predict general market trends and cyclical behaviors.
