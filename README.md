@@ -28,8 +28,8 @@ The project successfully fulfills the objective of shifting focus towards trend 
 4. Utilize the trend analysis output for strategic investment planning.
 
 ## Contributions
-Alok Aashish Vernekar 
-Yashwardhan Singh Tomar
+Alok Aashish Vernekar : Data Cleaning & Preparation, LSTM Model, Slides
+Yashwardhan Singh Tomar : Data Analysis, SVR Model, Data Exploration, Slides
 
 ## References
 
