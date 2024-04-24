@@ -62,14 +62,3 @@ Yashwardhan Singh Tomar
 7. Plotly:
    - Documentation: [Plotly Documentation](https://plotly.com/python/)
    - Tutorials: [Plotly Tutorials](https://plotly.com/python/tutorials/)
-
-
-
-
-
-# Save the README.md content to a file
-readme_file_path = '/mnt/data/README.md'
-with open(readme_file_path, 'w') as file:
-    file.write(readme_content)
-
-readme_file_path
