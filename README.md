@@ -28,15 +28,44 @@ The project successfully fulfills the objective of shifting focus towards trend 
 4. Utilize the trend analysis output for strategic investment planning.
 
 ## Contributions
-Contributions to this project are welcome. Please ensure to follow the contribution guidelines as outlined in `CONTRIBUTING.md`.
+Alok Aashish Vernekar 
+Yashwardhan Singh Tomar
 
-## License
-This project is licensed under the MIT License - see the `LICENSE.md` file for details.
+## References
 
----
+1. Pandas: 
+   - Documentation: [Pandas Documentation](https://pandas.pydata.org/docs/)
+   - Tutorials: [Pandas Tutorials](https://pandas.pydata.org/pandas-docs/stable/getting_started/index.html)
 
-*This README is part of the Stock Trend Analysis Project, designed to provide strategic, risk-averse insights into stock market investments.*
-"""
+2. NumPy:
+   - Documentation: [NumPy Documentation](https://numpy.org/doc/)
+   - Tutorials: [NumPy Tutorials](https://numpy.org/doc/stable/user/quickstart.html)
+
+3. Matplotlib:
+   - Documentation: [Matplotlib Documentation](https://matplotlib.org/contents.html)
+   - Tutorials: [Matplotlib Tutorials](https://matplotlib.org/stable/tutorials/index.html)
+
+4. Scikit-learn (sklearn):
+   - Documentation: [Scikit-learn Documentation](https://scikit-learn.org/stable/documentation.html)
+   - Tutorials: [Scikit-learn Tutorials](https://scikit-learn.org/stable/tutorial/index.html)
+
+5. TensorFlow (Keras):
+   - TensorFlow Documentation: [TensorFlow Documentation](https://www.tensorflow.org/guide)
+   - Keras Documentation: [Keras Documentation](https://keras.io/)
+   - TensorFlow Tutorials: [TensorFlow Tutorials](https://www.tensorflow.org/tutorials)
+   - Keras Tutorials: [Keras Tutorials](https://keras.io/examples/)
+
+6. Statsmodels:
+   - Documentation: [Statsmodels Documentation](https://www.statsmodels.org/stable/index.html)
+   - Tutorials: [Statsmodels Tutorials](https://www.statsmodels.org/stable/examples/index.html)
+
+7. Plotly:
+   - Documentation: [Plotly Documentation](https://plotly.com/python/)
+   - Tutorials: [Plotly Tutorials](https://plotly.com/python/tutorials/)
+
+
+
+
 
 # Save the README.md content to a file
 readme_file_path = '/mnt/data/README.md'
