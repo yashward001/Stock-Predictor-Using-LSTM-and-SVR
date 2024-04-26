@@ -21,12 +21,6 @@ Our analyses indicate that the LSTM model is highly capable of capturing the und
 ## Conclusion
 The project successfully fulfills the objective of shifting focus towards trend analysis rather than precise price prediction. It presents a data-driven, strategic approach for investment decision-making in the stock market.
 
-## How to Use
-1. Clone the repository to your local machine.
-2. Install the required dependencies listed in `requirements.txt`.
-3. Run the models using the provided Jupyter notebooks to analyze the latest stock data.
-4. Utilize the trend analysis output for strategic investment planning.
-
 ## Contributions
 Alok Aashish Vernekar : Data Cleaning & Preparation, LSTM Model, Slides
 Yashwardhan Singh Tomar : Data Analysis, SVR Model, Data Exploration, Slides
