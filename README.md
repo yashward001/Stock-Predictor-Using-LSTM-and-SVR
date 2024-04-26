@@ -23,6 +23,7 @@ The project successfully fulfills the objective of shifting focus towards trend 
 
 ## Contributions
 Alok Aashish Vernekar : Data Cleaning & Preparation, LSTM Model, Slides
+
 Yashwardhan Singh Tomar : Data Analysis, SVR Model, Data Exploration, Slides
 
 ## References
