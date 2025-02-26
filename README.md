@@ -21,10 +21,6 @@ Our analyses indicate that the LSTM model is highly capable of capturing the und
 ## Conclusion
 The project successfully fulfills the objective of shifting focus towards trend analysis rather than precise price prediction. It presents a data-driven, strategic approach for investment decision-making in the stock market.
 
-## Contributions
-Alok Aashish Vernekar : Data Cleaning & Preparation, LSTM Model, Slides
-
-Yashwardhan Singh Tomar : Data Analysis, SVR Model, Data Exploration, Slides, LSTM Model
 
 ## References
 
